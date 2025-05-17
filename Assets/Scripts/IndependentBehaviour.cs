@@ -1,5 +1,4 @@
 using JetBrains.Annotations;
-using Newtonsoft.Json.Serialization;
 using Pathfinding;
 using System;
 using System.Collections;
